@@ -2,9 +2,10 @@ package testhelper;
 
 import java.util.Random;
 
-public class RandomStub extends Random {
+public class
+RandomStub extends Random {
 
-    private int value;
+    private final int value;
 
     public RandomStub(int value) {
         this.value = value;

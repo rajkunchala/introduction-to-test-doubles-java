@@ -37,6 +37,6 @@ public class BubbleTeaRouletteServiceTest {
 
         //Assert
         assertEquals(expectedResult,actualResult);
-        
+
     }
 }
